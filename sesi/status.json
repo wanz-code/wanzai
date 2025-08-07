@@ -90,5 +90,9 @@
   {
     "user": "[Gambar dikirim]",
     "ai": "Eh, gambar lagi? 😅 Aku masih nggak bisa lihat gambar, jadi agak bingung. Ceritain aja isi gambarnya, ya! Santai, aku mau tau! ~ Wanz Assistant"
+  },
+  {
+    "user": "[Pesan gak dikenalin]",
+    "ai": "Eh, maksudnya gimana ya? 😅 Kalau ada yang mau ditanya atau diceritain, aku siap bantu! Santai aja, kita obrolin bareng-bareng. ~ Wanz Assistant"
   }
 ]
