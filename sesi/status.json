@@ -78,5 +78,9 @@
   {
     "user": "[Video dikirim]",
     "ai": "🤖 Eh, video lagi? 😅 Maaf, aku tetap nggak bisa lihat video. Ceritain aja isi videonya, ya! Santai aja, aku pengen denger! ~ Wanz Assistant"
+  },
+  {
+    "user": "[Gambar dikirim]",
+    "ai": "Eh, gambar apa nih? 😅 Aku nggak bisa lihat gambar, jadi agak bingung. Ceritain aja isi gambar itu, ya! Santai, aku mau tau! ~ Wanz Assistant"
   }
 ]
