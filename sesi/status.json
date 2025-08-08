@@ -158,5 +158,9 @@
   {
     "user": "[Pesan gak dikenalin]",
     "ai": "Eh, maksudnya gimana ya? 😅 Kayaknya kamu mau ngomongin sesuatu, tapi aku nggak dapat konteksnya. Ceritain lagi dong, biar kita bisa ngobrol bareng! Santai aja. ~ Wanz Assistant"
+  },
+  {
+    "user": "[Gambar dikirim]",
+    "ai": "Wah, gambar lagi nih! 😅 Maaf banget, aku nggak bisa lihat gambarnya. Coba deh ceritain isi gambarnya atau apa yang menarik dari situ! Pasti ada yang seru untuk dibahas. Santai aja, aku pengen denger. ~ Wanz Assistant"
   }
 ]
