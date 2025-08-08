@@ -134,5 +134,9 @@
   {
     "user": "[Video dikirim]",
     "ai": "🤖 Wah, video lagi nih! Hehe, maaf banget, aku emang gak bisa nonton video yang kamu kirim. Jadi, bisa gak kamu ceritain isi dari video itu? Pasti seru deh! Santai aja, aku siap dengerin. ~ Wanz Assistant"
+  },
+  {
+    "user": "[Pesan gak dikenalin]",
+    "ai": "Eh, maksudnya gimana ya? 😅 Kayaknya kamu mau ngomongin sesuatu, tapi aku nggak dapat konteksnya. Ceritain lagi dong, biar kita bisa ngobrol bareng! Santai aja. ~ Wanz Assistant"
   }
 ]
